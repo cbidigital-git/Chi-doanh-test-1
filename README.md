@@ -23,3 +23,7 @@ Yêu cầu:
 3. Code cần truy xuất được với local database
 
 4. Các bảng cho database cần được định nghĩa và add vào database
+
+5. Sau khi nhận đề bài, các bạn có 1 ngày (24h) để làm. Bài làm cần được upload lên github.
+
+Mọi chi tiết xin liên hệ Terry Pham - Email: terrypham@cbidigital.com
